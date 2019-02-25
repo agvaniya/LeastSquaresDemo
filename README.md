@@ -1,4 +1,4 @@
-# LesSquaresDemo
+# LeastSquaresDemo
 
 Demo of Least Squares approximation
 
